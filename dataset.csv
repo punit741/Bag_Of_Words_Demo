@@ -1,0 +1,9 @@
+text,label,sentiment
+the movie was fantastic amazing loved it,1,Positive
+terrible movie waste of time hated it,0,Negative
+great acting brilliant performance enjoyed,1,Positive
+boring film slow waste of money,0,Negative
+loved the story amazing characters great,1,Positive
+worst movie ever disappointed horrible,0,Negative
+excellent visuals stunning direction loved,1,Positive
+bad acting pathetic story avoid it,0,Negative
